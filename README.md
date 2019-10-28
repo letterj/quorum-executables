@@ -9,6 +9,6 @@ Download the archive and uncompress it and remove it
 tar -zxvf quorum-v2.3.0-files.tar.gz && rm quorum-v2.3.0-files.tar.gz
 ```
 Copy files to the `usr/local/bin` directory and remove the files
-``:bash
+```:bash
 sudo cp -v bin/* /usr/local/bin  
 ```
